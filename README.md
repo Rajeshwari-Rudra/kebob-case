@@ -2,9 +2,8 @@
 Module 1:P1 Published site
 
 ## Repository links
-=======
-[Source Repository]()
-[Hosted Page]()
+- [Source Repository]()
+- [Hosted Page]()
 
 ## About
 This repository is used to publish the websites for free with GitHub Pages.
@@ -18,11 +17,13 @@ To publish a webpage in GitHub pages the following things are necessary:
 - [Markdown](https://en.wikipedia.org/wiki/Markdown)
 
 ## Recommended Sources
-- [Markdown](https://daringfireball.net/projects/markdown/syntax#backslash)
+- [Daringfireball](https://daringfireball.net/projects/markdown/syntax#backslash)
 - [W3Schools](https://www.w3schools.com/)
 - [Udemy](https://www.udemy.com/)
 
 ## Contributors
 Name: Rajeshwari Rudravaram
+
 Course: Applied Computer Science
+
 ![](https://i.ytimg.com/vi/40Y-GmSGI74/maxresdefault.jpg)
