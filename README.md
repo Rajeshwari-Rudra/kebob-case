@@ -1,8 +1,28 @@
 # kebob-case
 Module 1:P1 Published site
 
-<<<<<<< HEAD
 ## Repository links
 =======
-## Repo links
->>>>>>> b06ed50f3d86db0eb03e458b6353dbfd48450964
+[Source Repository]()
+[Hosted Page]()
+
+## About
+This repository is used to publish the websites for free with GitHub Pages.
+
+## Recommended Tools
+To publish a webpage in GitHub pages the following things are necessary:
+- Need to have a github account.
+- Get installed Tortoisegit.
+- A repo with atleast README.md and some files which includes text documents and images.
+- [Git clone](https://www.git-scm.com/docs/git-clone)
+- [Markdown](https://en.wikipedia.org/wiki/Markdown)
+
+## Recommended Sources
+- [Markdown](https://daringfireball.net/projects/markdown/syntax#backslash)
+- [W3Schools](https://www.w3schools.com/)
+- [Udemy](https://www.udemy.com/)
+
+## Contributors
+Name: Rajeshwari Rudravaram
+Course: Applied Computer Science
+![](https://i.ytimg.com/vi/40Y-GmSGI74/maxresdefault.jpg)
