@@ -1,4 +1,4 @@
-# kebob-case
+# about-me
 Module 1:P1 Published site
 
 ## Repository links
