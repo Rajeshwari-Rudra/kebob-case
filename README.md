@@ -3,7 +3,7 @@ Module 1:P1 Published site
 
 ## Repository links
 - [Source Repository](https://github.com/Rajeshwari-Rudra/kebob-case)
-- [Hosted Page]()
+- [Hosted Page](https://rajeshwari-rudra.github.io/kebob-case/)
 
 ## About
 This repository is used to publish the websites for free with GitHub Pages.
